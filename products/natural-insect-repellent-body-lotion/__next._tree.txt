@@ -1,0 +1,6 @@
+:HL["/ddteck-staging/_next/static/chunks/31anmogn0pck0.css","style"]
+:HL["/ddteck-staging/assets/dd-teck-logo.png","image"]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"slug","t":"d","k":"natural-insect-repellent-body-lotion","s":[]},"h":96,"c":"$Q3"}]]
+1:[["children",{"s":"products","h":96,"c":"$Q2"}]]
+0:{"b":"3Ethmp0z89vfwWrL-8kFM","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

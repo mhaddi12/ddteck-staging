@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://ddteck.co.uk
+Sitemap: https://ddteck.co.uk/sitemap.xml

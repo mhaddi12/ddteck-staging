@@ -1,0 +1,4 @@
+:HL["/ddteck-staging/_next/static/chunks/31anmogn0pck0.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"design-options","h":96,"c":"$Q2"}]]
+0:{"b":"3Ethmp0z89vfwWrL-8kFM","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
